@@ -1,0 +1,116 @@
+
+
+
+     Executable File Protection System. (FPS) v1.0
+     Sistema de Protecci¢n para Ficheros Executables.
+     Copyright (c), 1997, iNTELLIGENT SOFTWARE DEVELOPMENT (iSD).
+
+     VERSION SHAREWARE
+
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  PROPOSITO                                                            ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     Parte de la gente que comparte un ordenador tiene programas peligrosos
+     o realizados  por uno mismo que  requieren una protecci¢n especial. Es
+     dificil asegurarse de que  nadie ejecutar  esos programas conflictivos
+     cuando usted no est  presente. Imaginemos un adulto que comparte su PC
+     con  su  hermano  peque¤o.  ¨C¢mo  puede  asegurarse  de  que  algunos
+     programas no son ejecutados?. Es facil imaginar el riesgo que conlleva
+     la ejecuci¢n de algunos programas como PCTOOLS, DISKEDIT o simplemente
+     DELTREE por  alguien sin demasiados conocimientos  de inform tica. Por
+     supuesto estos ficheros cr¡ticos pueden  ser ocultados usando la orden
+     ATTRIB del  DOS, o  renombrados con  extensiones no  ejecutables (como
+     .PRG), o incluso encriptados utilizando alg£n software que lo permita,
+     pero estos son peque¤os trucos,  no soluciones verdaderas. Son trampas
+     engorrosas y lentas. Ser¡a mejor que el programa llamado requiriera la
+     introducci¢n de un  c¢digo (password) para funcionar. As¡  es como FPS
+     funciona.
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  IDEA                                                                 ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS a¤ade una peque¤a cabecera a  cada programa protegido, de modo que
+     al ejecutarse ‚ste pide el c¢digo al usuario. Los c¢digos pueden tener
+     hasta  15  caracteres.  Por   supuesto,  puede  especificar  passwords
+     diferentes para  ficheros diferentes.  En los passwords  puede incluir
+     caracteres "extra¤os"  como espacios y caracteres  no imprimibles. Una
+     vez que el programa protegido  es llamado, mostrar  un peque¤o mensaje
+     (alterable en la  version DELUXE) y requerir  la entrada  de la clave.
+     Si la clave  escrita es correcta, el programa  correr  con normalidad.
+     En caso  contrario el programa  regresar  al sistema  operativo. NOTA:
+     las claves son sensibles a las may£sculas/min£sculas, as¡ que "MiProg"
+     es distinto de "MIPROG".
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  MODO DE EMPLEO                                                       ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     Llame al programa de la siguiente manera:
+
+     FPS <nombre.exe>
+
+     donde  <nombre.exe> es  el  nombre del  fichero  que quiere  proteger,
+     incluida la extension ".EXE". FPS  le pedir  un password para proteger
+     el programa. Despues de esto,  un fichero "EXEPROT.EXE" ser  creado en
+     el directorio actual. Los programas protegidos nunca funcionar n si el
+     usuario no  teclea el correcto,  as¡ que puede  perder el acceso  a un
+     programa  si olvida  el  password correcto  o si  comete  un error  al
+     teclear el  password por primera vez.  Recomendamos fuertemente probar
+     el fichero EXEPROT.EXE antes de borrar el ejecutable original.
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  METODO DE DISTRIBUCION                                               ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS es SHAREWARE. Esto significa  que puede ser distribuido libremente
+     SIEMPRE Y CUANDO se cumplan las siguientes condiciones:
+
+     -> El programa entero (incluido este texto) permanece en su forma
+        original (sin modificaciones).
+
+     -> No se cobra por ello, excepto por los gastos de soporte y/o
+        distribuci¢n.
+
+     FPS  puede   ser  distribuido  libremente,   subido  a  BBS   o  redes
+     inform ticas,  o  simplemente   copiado  de  mano  en   mano,  SI  las
+     condiciones arriba expuestas  son respetadas. Si desea  incluir FPS en
+     un CD-ROM de  shareware o en una revista, DEBE  contactar con el autor
+     en la direcci¢n abajo indicada  pidiendo permiso escrito para publicar
+     FPS, incluyendo en nombre de su producto y el  rea de distribuci¢n.
+
+     Todo tipo de comentarios, cr¡ticas y sugerencias son bienvenidos.
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  NOTAS IMPORTANTES                                                    ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS no deber¡a  ser usado en ejecutables de tipo  Windows o OS/2. Como
+     FPS modifica la  estructura del fichero, no deber¡a  ser usado tampoco
+     en programas auto-modificables o  que incluyen rutinas de auto-testeo,
+     como la mayor¡a de los antivirus.
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³  COMENTARIOS FINALES                                                  ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     Esperamos  que encuentre  FPS £til. Si este  es su caso,  recuerde que 
+     est  disponible la VERSION DELUXE, que incluye estas nuevas opciones:
+
+     -> Desprotecci¢n de programas (tras escribir el password correcto).
+     -> Protecci¢n tambien para ficheros .COM.
+     -> Capacidad para cambiar los mensajes de la cabecera de los programas
+        protegidos a gusto del usuario.
+     -> Cadenas  encriptadas en la  cabecera para evitar ser  crackeado por
+        posibles hackers.
+
+     Envie 1500Pta a la siguiente direcci¢n para obtener la VERSION DELUXE.
+
+     ->  iNTELLIGENT  SOFTWARE  DEVELOPMENT
+         Valdenoja, 38-I, 3§C
+         39012 Santander
+         SPAINÿ
+
+     FIN DEL FICHERO.ÿ
