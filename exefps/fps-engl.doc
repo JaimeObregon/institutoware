@@ -1,0 +1,112 @@
+
+
+
+     Executable File Protection System. (FPS) v1.0
+     Copyright (c), 1997, iNTELLIGENT SOFTWARE DEVELOPMENT (iSD).
+
+     SHAREWARE EDITION
+
+
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  PURPOUSE                                                             ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     Some people who  shares a computer has private,  dangerous or own-made
+     programs.  It  is  difficult  to ensure  that  nobody  will  run  that
+     conflictive program while  you are not present. Lets  imagine an adult
+     who shares his computer with a little brother. How can he be sure that
+     some programs are  not run ? Just imagine  the risk of  executing some
+     programs  such as  PCTOOLS,  DISKEDIT  or simply  DELTREE by  a person
+     without much knowledge.  Of course you can hide these  files using the
+     ATTRIB command, or rename them into non-executable extensions (such as
+     .PRG) or even  encript them using some encripting  software, but these
+     are  little tricks,  not  true solutions.  They  are time-wasting  and
+     unprofessional. It would be better if the called program asks the user
+     for a password or a key. This is how FPS works.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  IDEA                                                                 ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS adds  a little header to  the program so after  being protected it
+     asks for a password (password length could be 15 characters long). You
+     can specify different passwords for different files. In your passwords
+     you  can  include  extrange  characters,  such  as  blanks  and  other
+     not-printable  ones. Once  the protected  program is  called, it  will
+     display a little  message (that can be changed in  the DELUXE EDITION)
+     and prompt  the user for the  string. If it matches  with the password
+     which the file was protected with, the file will be run, in other case
+     it will return to DOS. NOTE: Passwords ARE CASE SENSITIVE, so "MyProg"
+     is different from "MYPROG".
+
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  HOW TO USE                                                           ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     Call FPS by the following manner:
+
+     FPS <filename.exe>
+
+     where <filename.exe>  is the file  you want to protect,  including the
+     ".EXE" extension. Then you will be asked  for a password to set. After
+     that, a  protected file  called "EXEPROT.EXE" will  be created  in the
+     current directory.  Note that  protected files will  never run  if the
+     correct code is not entered, so you  can loose the access to a program
+     if you  forget the password  or you had a  mistake while typing  it at
+     first time. We  recomend strongly to test the  EXEPROT.EXE file before
+     deleting the original program.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  DISTRIBUTION METHOD                                                  ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS is  SHAREWARE. This means it can be  freely distributed AS LONG AS
+     the following clauses are followed:
+
+       -> The entire package (including this text file) remains unmodified.
+       -> No money is charged for it except the support and/or handling
+          costs.
+
+     FPS can be freely distributed, uploaded to any BBS or computer network
+     or  simply  copied  to  your  friends  IF  the  above  conditions  are
+     respected. If you  want to include FPS  on a shareware CD-ROM  or on a
+     magazine, you  MUST contact the  author on the  address at the  end of
+     this document asking for written  permission to publish FPS, including
+     your product name and distribution area.
+     Also  you can  send any  kind of  comments and/or  suggestions to  the
+     mentioned address.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  IMPORTANT NOTES                                                      ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     FPS should  not be used  in Windows or  OS/2 executable files  or they
+     won't run properly. Due FPS modifies  the file structure it should not
+     be used  in self-changing  or self-checking programs  such as  most of
+     antivirus.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³  FINAL WORDS                                                          ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+     We hope you find FPS useful. If this is your case, remember that it is
+     available the DELUXE EDITION which  includes these brand new features:
+
+       -> Deprotecting files (once entered the current password).
+       -> Also protecting .COM files.
+       -> Ability of changing the protected files messages into the ones
+          specified by the user.
+       -> Encripted strings within the program header (to avoid being
+          traced or dissasembled by possible debuggers or hackers).
+
+     Order now the DELUXE EDITION by sending 1500Pta ($10) to the following 
+     address:
+
+       -> iNTELLIGENT SOFTWARE DEVELOPMENT
+          Valdenoja, 38-I, 3§C
+          39012 Santander
+          SPAINÿ
+
+     END OF FILE.
