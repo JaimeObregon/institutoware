@@ -1,14 +1,14 @@
                
-                  █████┐ █┐█┐ ███┐ █┐ ███┐ ███┐  ███┐ █┐█┐ 
-                  █┌█┌█│ █│█│ █┌─┘ █│ █┌─┘ █┌█│  █┌█│ █│█│ 
-                  █│└┘█│ █│█│ ███┐ █│ █│   ████┐ █│█│ ▐█▌│ 
-                  █│  █│ █│█│ └─█│ █│ █│   █┌─█│ █│█│ █┌█│ 
-                  █│  █│ ███│ ███│ █│ ███┐ ████│ ███│ █│█│
-                  └┘  └┘ └──┘ └──┘ └┘ └──┘ └───┘ └──┘ └┘└┘ 
+                  ����ۿ ۿۿ ��ۿ ۿ ��ۿ ��ۿ  ��ۿ ۿۿ 
+                  ����۳ ۳۳ ���� ۳ ���� ��۳  ��۳ ۳۳ 
+                  ۳��۳ ۳۳ ��ۿ ۳ ۳   ���ۿ ۳۳ ��ݳ 
+                  ۳  ۳ ۳۳ ��۳ ۳ ۳   ���۳ ۳۳ ��۳ 
+                  ۳  ۳ ��۳ ��۳ ۳ ��ۿ ���۳ ��۳ ۳۳
+                  ��  �� ���� ���� �� ���� ����� ���� ���� 
 
 
-Bienvenidos los marroquíes, los tunecinos, los mauritanos, los egipcios, o
+Bienvenidos los marroqu�es, los tunecinos, los mauritanos, los egipcios, o
 los hombres azules del pueblo Taureg. Bienvenidos los alemanes, los suecos,
-los daneses o los portugeses. Bienvenidos los americanos, los asiáticos, los
+los daneses o los portugeses. Bienvenidos los americanos, los asi�ticos, los
 esquimales o los europeos. Bienvenidos los de nacionalidad no reconocida.
 Bienvenidos, todos, al nuevo programa de... SOFTWARE INUTIL INTERNATIONAL.
