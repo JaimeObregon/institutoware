@@ -63,8 +63,8 @@ Adjuntaré a cada programa su código fuente… si lo conservo.
 
 He recuperado el código fuente de [Cutris 1.0](./cutris/1.0/) y de
 [Masacre en el instituto](./masacre/). Las notas de conservación de
-[Arkaful](./arkaful/README.md), [Cutris](./cutris/README.md) y
-[Masacre](./masacre/README.md) explican las copias y variantes conservadas.
+[Cutris](./cutris/README.md) y [Masacre](./masacre/README.md) explican las
+copias y variantes conservadas.
 
 Dejo los ficheros de texto (con extensiones `.TXT` y `.DOC`, fundamentalmente) con su codificación original de MS-DOS (CP437), por lo que el arte ASCII, tildes y otros caracteres especiales solo se apreciarán en DOSBox.
 
