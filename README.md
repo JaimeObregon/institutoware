@@ -26,6 +26,12 @@ Como era habitual en la época, tenía mis «marcas»:
 
 Adjuntaré a cada programa su código fuente… si lo conservo. (Y sí, me avergüenzo de lo que programa y de mi código, pero me divertía con ello y todo esto es una parte de mi carrera profesional de la que tampoco voy a renegar).
 
+![La vida en el 2000](./graficos/la-vida-en-el-2000.avif)
+
+El _setup_ doméstico por aquella época era el de la foto. Nótese el escáner con el que digitalicé la rebanada de pan 😂, la alfombrilla del ratón y toda la parafernalia milénica…
+
+El mamotreto, por cierto, que se ve sobre la mesa es la tercera edición de «Cálculo y Geometría Analítica», el mítico libro de Larson y Hostetler que editó McGraw-Hill en 1992. Tiene más de 1300 páginas. 😅
+
 ## Contenidos
 
 ### CUTRIS
