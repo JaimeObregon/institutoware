@@ -1,0 +1,88 @@
+
+SPY. Ver 1.0. Copyright, (c), 1997, iNTELLIGENT SOFTWARE DEVELOPMENT (iSD)
+-----------------------------------------------------------------------------                                
+
+¨Comparte el ordenador con m s de una persona?. 
+¨Sospecha que alguien utiliza su ordenador sin su permiso?.
+¨Cree que algui‚n ejecuta sus programas o vulnera sus datos?.
+Ha puesto baterias nuevas al reloj de su CPU y sigue desajustandose. ¨No ha 
+conseguido dar con el programa causante del fallo?
+
+Tiene cerca la soluci¢n a las estas preguntas y a muchas otras: SPY.
+
+SPY es un mini-TSR (no llega a 1K) que se carga en memoria y registra el
+nombre, la fecha y la hora de todos los programas ejecutados en su m quina.
+No produce demora alguna, por lo que la transparencia es total. Usted 
+advertir  su presencia £nicamente por el lac¢nico "0k" que muestra al 
+cargarse. 
+
+A¤ada la l¡nea "LH C:\DOS\SPY.COM" a su AUTOEXEC.BAT y cada programa 
+ejecutado se registrar  en el fichero de la unidad "C:\FILENFO.SPY". Antes
+cree el fichero con cualquier texto, o simplemente, con tama¤o 0. SPY le 
+anexar  toda la informaci¢n necesaria. 
+Para mayor seguridad puede ocultar el fichero ("ATTRIB C:\FILENFO.SPY +H).
+SPY trabajar  del mismo modo sin desocultar el fichero.
+
+Cuando desee ojear el fichero ejecute el programa adjunto SPYREAD, que le
+mostrar  de forma detallada las horas, fechas y nombres de los programas
+ejecutados desde que ejecut¢ SPY por primera vez.
+
+SPY ha sido desarrollado por SOFTWARE INUTIL, compa¤¡a l¡der en el sector del
+software est£pido. (Aunque admitimos que la competencia que sufrimos cada d¡a
+es cada vez mayor).
+
+Cuando desee desinstalar SPY, elimine la l¡nea antes citada del AUTOEXEC.BAT
+y listo. Si lo que desea es deshacerse completamente del programa, elimine
+C:\FILENFO.SPY, SPY.COM y SPYREAD.EXE y ya est . No hay m s. No esper‚ 
+liberar tres megas de disco duro, no. D‚se cuenta de que SPY ocupa el doble
+por culpa de ‚ste peque¤o fichero de texto. (AUNQUE ESTO NO ES MOTIVO PARA 
+BORRARLE)
+
+El autor se ha esfozado en hacer el programa silencioso y compacto. No es
+ninguna joya de la programaci¢n, pero funcina. Y bien.
+
+SPY no detectar  los programas ejecutados en Windows 3.1 ni los comandos 
+internos del DOS.
+
+Garant¡a y distribuci¢n:
+  o Debido a la poca relevancia del programa el autor no puede ofrecer 
+    ning£na garant¡a. Por lo tanto NO SE HACE RESPONSABLE DE NINGUN TIPO 
+    DE AVERIA O DA¥O producido directa o indirectamente por el programa.
+    SPY ha sido testeado en un gran n£mero de ordenadores con resultados 
+    satisfactorios. 
+  o El programa es CARDWARE. Esto implica que puede ser copiado y difundido 
+    gratuitamente mientras:
+       a) TODOS los ficheros del programa (incluido este texto) permanezcan 
+          en su forma original (sin ninguna modificaci¢n).
+       b) La distribuci¢n se realice de forma gratuita o cobrando unicamente
+          por los gastos de duplicado y/o del soporte.
+  o SPY puede ser incluido en CD-ROMs recopilatorios de shareware, subido a 
+    BBSs o publicado a traves de cualquier medio sin el conocimiento del 
+    autor SIEMPRE QUE se cumplan las condiciona arriba expuestas. 
+  o Si desea publicar SPY en un CD-ROM recopilatorio de shareware, una 
+    revista o cualquier medio similar, se agradecer  notablemente una 
+    notificaci¢n indic ndoselo al autor en la direcci¢n abajo indicada.
+  o CARDWARE es una modalidad de distribuci¢n de software en la que el
+    autor no percibe beneficio econ¢mico alguno por la creaci¢n del pro-
+    grama. La distribuci¢n es gratuita, y el autor no exige ning£n pago ni
+    siquiera en el caso de que el programa le parezca interesante o diver-
+    tido. No obstante, si su caso es ‚ste £ltimo, el autor agradecer 
+    ENORMEMENTE recibir una postal del lugar donde viva o de cualquier
+    otra cosa indicando su punto de vista sobre el programa, las mejoras que
+    a¤adir¡a, etc. En iSD somos conscientes de que el precio de una postal y
+    de un sello (ñ 65 ptas) no es tan siquiera comparable al esfuerzo mental
+    que ha costado su desarrollo. Con este precio tan peque¤o usted puede
+    ofrecer una ayuda infinita al autor para el desarrollo de futuros
+    programas, permiti‚ndole conocer hasta d¢nde ha llegado geogr ficamente
+    el juego.
+
+Para cualquier comentario, sugerencia o cr¡tica dirijase a:
+  -> JAIME GOMEZ OBREGON
+     Valdenoja, 38-I 3§ C
+     39012 Santander
+     ESPA¥A
+
+Si lo desea puede tambi‚n enviar dinero, software, ropa, comida, RAM y/o 
+tarjetas de video.
+
+
