@@ -1,4 +1,6 @@
-![Software Inútil International](./_images/software-inutil.avif)
+|                                    |                                      |                                    |
+| ---------------------------------- | ------------------------------------ | ---------------------------------- |
+| ![](./_screenshots/cutris_000.png) | ![](./_screenshots/musicbox_000.png) | ![](./_screenshots/cutris_002.png) |
 
 # institutoware
 
@@ -36,6 +38,8 @@ Alguna vez grababa alguna de estas creaciones en un disquete y, también por cor
 
 ¡Recibí dos cartas de usuarios! Un chico de Buenos Aires —con quien [me reencontré 24 años después](https://x.com/JaimeObregon/status/1499157073573130245)— y alguien de Vitoria.
 
+## Mis marcas
+
 Como era habitual en la época, tenía mis varias «marcas». Y capturan bien la transgresión, el divertimento y el gamberrismo que había en la escena informática juvenil doméstica de aquellos años:
 
 - **SOFTWARE INÚTIL INTERNATIONAL**, cuyo surrealista logo era una rebanada de pan de molde, que digitalicé con un escáner.
@@ -43,6 +47,8 @@ Como era habitual en la época, tenía mis varias «marcas». Y capturan bien la
 - **VIRUSWARE INDUSTRIES**, marca gamberra con la que firmé algunos virus informáticos no destructivos que programaba en casa por las tardes y distribuía por las mañanas en el instituto 🙃.
 
 - **iNTELLIGENT SOFTWARE DEVELOPMENT (iSD)**, con la que firmé algunos experimentos y pequeñas utilidades.
+
+![Software Inútil International](./_images/software-inutil.avif)
 
 ## Programas
 
@@ -82,7 +88,17 @@ Como muchos de esos programillas que solían circular por las BBS de la época, 
 
 ## Arkaful
 
-Un clon de Arkanoid con sorpresas.
+Del arrollador éxito de Cutris 2 (ninguno), surtió un Arkanoid que era «una ful», como se decía por entonces —al menos en mi instituto— cuando algo era extremadamente cutre (y el superlativo «es una ful de Estambul»).
+
+Pero ahora diría que Arkaful era un juego muy digno, con un divertido modo de dos jugadores y lleno de sorpresas que caían de algunos ladrillos.
+
+¡Ah, y soportaba tarjeta de sonido Sound Blaster!
+
+También de 1997.
+
+|                                     |                                     |                                     |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| ![](./_screenshots/arkaful_000.png) | ![](./_screenshots/arkaful_001.png) | ![](./_screenshots/arkaful_002.png) |
 
 ## Music Box!
 
