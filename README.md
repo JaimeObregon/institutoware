@@ -116,7 +116,7 @@ El bajito que camina moviendo un maletín era Ernesto (Lengua y Literatura), y l
 
 No, no estoy orgulloso de este macabro experimento, pero en aquel momento me pareció divertido.
 
-Durante la intro, que duraba unos segundos, se dibujaba artísticamente sobre la pantalla a un quinqui empuñando una pistola —algo que escaneé de algún sitio— mientras la tarjeta de sonido reproducía una serana de Mozart. ¡De primero de psicópata!
+Durante la intro, que duraba unos segundos, se dibujaba artísticamente sobre la pantalla a un quinqui empuñando una pistola —algo que escaneé de algún sitio— mientras la tarjeta de sonido reproducía la Pequeña Serenata Nocturna de Mozart. 😅
 
 El juego es de 1998; año en que comencé el bachillerato. Y está ambientado en un distópico y _lejano_… 2007.
 
