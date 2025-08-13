@@ -1,4 +1,4 @@
-![Software Inútil International](./graficos/software-inutil.jpg)
+![Software Inútil International](./_images/software-inutil.avif)
 
 # institutoware
 
@@ -22,7 +22,7 @@ Pero, sobre todo, a programar uno aprendía programando. Y es por ello que exist
 
 Programaba estas cosas fundamentalmente con el IDE de modo texto gualda y azul de Borland, _Turbo Vision_. Y junto a un radiocasete con _auto reverse_ que a menudo reproducía en bucle una cinta TDK con una copia pirata de cualquier disco _punk_ o de rock callejero que circulaba de mano en mano entre los amigos de clase.
 
-![La vida en el 2000](./graficos/la-vida-en-el-2000.avif)
+![La vida en el 2000](./_images/habitacion.avif)
 
 El de la foto era mi _setup_ doméstico por aquella época, en mi precaria habitación del piso familiar. Hay un escáner, y mucha parafernalia milénica como la obligatoria y penosa alfombrilla del ratón
 
@@ -50,6 +50,8 @@ Adjuntaré a cada programa su código fuente… si lo conservo.
 
 Y sí; me avergüenzo de lo que programaba y de mi código, pero me divertía con ello y todo esto conforma el kilómetro cero de mi carrera profesional.
 
+Dejo los ficheros de texto (.TXT y .DOC, fundamentalmente) con sus codificaciones originales de MS-DOS (CP437), por lo que el arte ASCII, tildes y otros caracteres especiales solo se apreciarán en DOSBox.
+
 ### Cutris
 
 Un Tetris cutre, (¡aunque no tanto!).
@@ -62,15 +64,15 @@ Un clon de Arkanoid con sorpresas.
 
 El clásico programa que todos los chavales hicimos alguna vez: una utilidad para gestionar una colección musical. En este caso, mi colección de casetes pirata. Lo hice en 1997, cuando tenía 16 años.
 
-|                                  |                                  |                                  |
-| -------------------------------- | -------------------------------- | -------------------------------- |
-| ![](./capturas/musicbox_000.png) | ![](./capturas/musicbox_002.png) | ![](./capturas/musicbox_001.png) |
+|                                      |                                      |                                      |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![](./_screenshots/musicbox_000.png) | ![](./_screenshots/musicbox_002.png) | ![](./_screenshots/musicbox_001.png) |
 
 ### Masacre en el Instituto
 
 Un clon del clásico arcade Operation Wolf, solo que en vez de disparar a vietcongs disparaba a mis profesores del instituto. 🤷🏻‍♂️
 
-![Masacre en el Instituto](./graficos/masacre-en-el-instituto.jpg)
+![Masacre en el Instituto](./_images/masacre.avif)
 
 ### Karaoke
 
