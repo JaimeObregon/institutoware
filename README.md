@@ -1,6 +1,6 @@
 |                                    |                                     |                                      |
 | ---------------------------------- | ----------------------------------- | ------------------------------------ |
-| ![](./_screenshots/cutris_000.png) | ![](./_screenshots/arkaful_001.png) | ![](./_screenshots/musicbox_000.png) |
+| ![](./_screenshots/cutris_000.png) | ![](./_screenshots/masacre_016.png) | ![](./_screenshots/musicbox_000.png) |
 
 # institutoware
 
@@ -110,7 +110,29 @@ El clásico programa que todos los chavales hicimos alguna vez: una utilidad par
 
 ## Masacre en el Instituto
 
-Un clon del clásico arcade Operation Wolf, solo que en vez de disparar a vietcongs disparaba a mis profesores del instituto. 🤷🏻‍♂️
+Una castiza versión del clásico arcade Operation Wolf, solo que en vez de disparar a _charlies_ disparas a muñecos de cómico andar con un sospechosísimo parecido a mis profesores del instituto 🤷🏻‍♂️.
+
+El bajito que camina moviendo un maletín era Ernesto (Lengua y Literatura), y la señora oronda con bata blanca y un moño recogido, la jefa de estudios («[Sra. Urrusolo](https://es.wikipedia.org/wiki/José_Luis_Urrusolo_Sistiaga)», en el juego, «Sra. Aldasoro» en la realidad).
+
+No, no estoy orgulloso de este macabro experimento, pero en aquel momento me pareció divertido.
+
+Durante la intro, que duraba unos segundos, se dibujaba artísticamente sobre la pantalla a un quinqui empuñando una pistola —algo que escaneé de algún sitio— mientras la tarjeta de sonido reproducía una serana de Mozart. ¡De primero de psicópata!
+
+El juego es de 1998; año en que comencé el bachillerato. Y está ambientado en un distópico y _lejano_… 2007.
+
+Tiene dos ejecutables: `MASACRE.EXE`, que es una elaborada y cómica introducción a la historia, y `JUEGO.EXE`, donde se desarrolla la acción.
+
+|                                     |                                     |                                     |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| ![](./_screenshots/masacre_001.png) | ![](./_screenshots/masacre_003.png) | ![](./_screenshots/masacre_004.png) |
+
+|                                     |                                     |                                     |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| ![](./_screenshots/masacre_008.png) | ![](./_screenshots/masacre_009.png) | ![](./_screenshots/masacre_011.png) |
+
+|                                     |                                     |                                     |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| ![](./_screenshots/masacre_014.png) | ![](./_screenshots/masacre_016.png) | ![](./_screenshots/masacre_017.png) |
 
 ![Masacre en el Instituto](./_images/masacre.avif)
 
