@@ -64,9 +64,13 @@ Los gráficos los hice, creo, con Photoshop. Y —también creo— tenía que co
 
 ¡Tanto los amigos como en casa echamos unas cuentas horas jugando!
 
-|                                    |                                    |                                    |                                    |                                    |                                    |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| ![](./_screenshots/cutris_003.png) | ![](./_screenshots/cutris_002.png) | ![](./_screenshots/cutris_000.png) | ![](./_screenshots/cutris_001.png) | ![](./_screenshots/cutris_004.png) | ![](./_screenshots/cutris_005.png) |
+|                                    |                                    |                                    |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| ![](./_screenshots/cutris_000.png) | ![](./_screenshots/cutris_003.png) | ![](./_screenshots/cutris_002.png) |
+
+|                                    |                                    |                                    |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| ![](./_screenshots/cutris_001.png) | ![](./_screenshots/cutris_004.png) | ![](./_screenshots/cutris_005.png) |
 
 Como muchos de esos programillas que solían circular por las BBS de la época, adjunté un mensaje en `CUTRIS.DOC`. Hay una parte que es una oda a reírse de uno mismo 🙃 y a la actitud divertida y desenfadada que envolvía las muchas horas que confeccionar estos programas llevaba:
 
