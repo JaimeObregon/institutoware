@@ -2,7 +2,7 @@
 
 # institutoware
 
-Viejos juegos y programillas que escribí en la segunda mitad de los años 90, cuando tenía quince o dieciséis años e iba al instituto. Fundamentalmente en Turbo Pascal y algo de ensamblador. Todo para MS-DOS.
+Viejos juegos y programillas que escribí en la segunda mitad de los años 90, cuando tenía quince o dieciséis años e iba al instituto. Fundamentalmente en Turbo Pascal 6.0 y algo de ensamblador. Todo para MS-DOS.
 
 Me da vergüenza publicar esto pero, ¡hey!, no has vivido si no has cometido pecadillos de juventud 🙃. Y avergonzarnos de lo que fuimos es, supongo, síntoma de evolución.
 
@@ -52,15 +52,35 @@ Y sí; me avergüenzo de lo que programaba y de mi código, pero me divertía co
 
 Dejo los ficheros de texto (.TXT y .DOC, fundamentalmente) con sus codificaciones originales de MS-DOS (CP437), por lo que el arte ASCII, tildes y otros caracteres especiales solo se apreciarán en DOSBox.
 
-### Cutris
+## Cutris 2
 
-Un Tetris cutre, (¡aunque no tanto!).
+La anunciada (en ningún sitio) secuela de mi Cutris, un «tetris cutre»… que no lo era tanto. Tenía dos modos de juego: el clásico y el «txungo», con piezas más intrincadas.
 
-### Arkaful
+En el imprescindible listado de récords aparece mi hermano en casi todos los puestos del «top ten».
+
+Me encanta la declaración de copyright a nombre de mi marca SOFTWARE INÚTIL, S.A., emulando una sociedad anónima 🤣. Lo programé en Turbo Pascal el verano que cumplí 16 años, en 1997.
+
+Los gráficos los hice, creo, con Photoshop. Y —también creo— tenía que convertirlos a un sencillo formato _raster_ propio porque Turbo Pascal no traía rutinas para decodificar formatos gráficos.
+
+¡Tanto los amigos como en casa echamos unas cuentas horas jugando!
+
+|                                    |                                    |                                    |                                    |                                    |                                    |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| ![](./_screenshots/cutris_003.png) | ![](./_screenshots/cutris_002.png) | ![](./_screenshots/cutris_000.png) | ![](./_screenshots/cutris_001.png) | ![](./_screenshots/cutris_004.png) | ![](./_screenshots/cutris_005.png) |
+
+Como muchos de esos programillas que solían circular por las BBS de la época, adjunté un mensaje en `CUTRIS.DOC`. Hay una parte que es una oda a reírse de uno mismo 🙃 y a la actitud divertida y desenfadada que envolvía las muchas horas que confeccionar estos programas llevaba:
+
+> SOFTWARE INÚTIL, compañía líder en el sector de los programas que no sirven para nada, ha dado un gran paso hacia adelante en la historia de la informática programando cosas que antes nadie se había atrevido a programar.
+
+|                                    |                                    |                                    |                                    |                                    |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| ![](./_screenshots/cutris_006.png) | ![](./_screenshots/cutris_007.png) | ![](./_screenshots/cutris_008.png) | ![](./_screenshots/cutris_009.png) | ![](./_screenshots/cutris_010.png) |
+
+## Arkaful
 
 Un clon de Arkanoid con sorpresas.
 
-### Music Box!
+## Music Box!
 
 El clásico programa que todos los chavales hicimos alguna vez: una utilidad para gestionar una colección musical. En este caso, mi colección de casetes pirata. Lo hice en 1997, cuando tenía 16 años.
 
@@ -68,12 +88,12 @@ El clásico programa que todos los chavales hicimos alguna vez: una utilidad par
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 | ![](./_screenshots/musicbox_000.png) | ![](./_screenshots/musicbox_002.png) | ![](./_screenshots/musicbox_001.png) |
 
-### Masacre en el Instituto
+## Masacre en el Instituto
 
 Un clon del clásico arcade Operation Wolf, solo que en vez de disparar a vietcongs disparaba a mis profesores del instituto. 🤷🏻‍♂️
 
 ![Masacre en el Instituto](./_images/masacre.avif)
 
-### Karaoke
+## Karaoke
 
 Música MIDI. Este programa de 1994 no es mío; lo encontré en un disquete o CD-ROM de alguna revista. Lo incluyo aquí porque lo pasábamos bien editando las letras de las canciones para
