@@ -78,10 +78,6 @@ Como muchos de esos programillas que solían circular por las BBS de la época, 
 
 > SOFTWARE INÚTIL, compañía líder en el sector de los programas que no sirven para nada, ha dado un gran paso hacia adelante en la historia de la informática programando cosas que antes nadie se había atrevido a programar.
 
-|                                    |                                    |                                    |                                    |                                    |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| ![](./_screenshots/cutris_006.png) | ![](./_screenshots/cutris_007.png) | ![](./_screenshots/cutris_008.png) | ![](./_screenshots/cutris_009.png) | ![](./_screenshots/cutris_010.png) |
-
 ## Arkaful
 
 Del arrollador éxito de Cutris 2 (ninguno), surtió un Arkanoid que era «una ful», como se decía por entonces —al menos entre mis amigos— cuando algo era extremadamente cutre (y el superlativo «una ful de Estambul»).
@@ -122,11 +118,7 @@ Lo programé en Pascal con algunas pinceladas de ensamblador. Las tipografías e
 
 |                                     |                                     |                                     |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![](./_screenshots/masacre_001.png) | ![](./_screenshots/masacre_003.png) | ![](./_screenshots/masacre_004.png) |
-
-|                                     |                                     |                                     |
-| ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![](./_screenshots/masacre_008.png) | ![](./_screenshots/masacre_009.png) | ![](./_screenshots/masacre_011.png) |
+| ![](./_screenshots/masacre_001.png) | ![](./_screenshots/masacre_008.png) | ![](./_screenshots/masacre_011.png) |
 
 |                                     |                                     |                                     |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
@@ -136,7 +128,7 @@ En mis archivos he encontrado incluso un fondo de pantalla «publicitario» de e
 
 ![Masacre en el Instituto](./_images/masacre.avif)
 
-Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca llegué a distribuir este juego.
+Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca llegué a distribuir este juego, exceptuando el reducido grupo de amigos de la época.
 
 ## Karaoke
 
