@@ -110,7 +110,7 @@ Durante la intro, que duraba unos segundos, se dibujaba artísticamente sobre la
 
 No, no estoy orgulloso de este macabro experimento, pero en aquel momento me parecía divertido.
 
-El juego es de 1998; año en que comencé el bachillerato. Está ambientado en un distópico y _lejano_… 2007.
+El juego es del verano de 1998; año en que comencé el bachillerato. Está ambientado en un distópico y _lejano_… 2007.
 
 Tiene dos ejecutables: `MASACRE.EXE`, que es una elaborada y cómica introducción a la historia, y `JUEGO.EXE`, donde se desarrolla la acción.
 
