@@ -132,6 +132,6 @@ Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca lleg
 
 ## Karaoke
 
-Música MIDI. Este programa de 1994 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
+Música MIDI. Este programa de 1994 para Windows 3.11 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
 
-Lo incluyo aquí porque lo pasábamos bien editando las letras de las canciones. Pero venían en un formato propio e indocumentado, así que lo hacíamos con un editor hexadecimal, cuidando de no alterar la estructura del formato…
+Lo incluyo aquí porque lo pasábamos bien cambiando las letras de las canciones por versiones absurdas. Recuerdo que había que hacerlo con un editor hexadecimal y mucho cuidado de no alterar la estructura de los ficheros, que venían en un formato propio y, como casi todo en esa época, indocumentado.
