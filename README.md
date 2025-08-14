@@ -130,6 +130,18 @@ En mis archivos he encontrado incluso un fondo de pantalla «publicitario» de e
 
 Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca llegué a distribuir este juego, exceptuando el reducido grupo de amigos de la época.
 
+## Anticopy
+
+[WIP] De 1997.
+
+![](./_screenshots/anticopy_000.png)
+
+## ASCII
+
+[WIP] Sin datar.
+
+![](./_screenshots/ascii_000.png)
+
 ## Karaoke
 
 Música MIDI. Este programa de 1994 para Windows 3.11 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
