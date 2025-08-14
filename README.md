@@ -142,6 +142,14 @@ Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca lleg
 
 ![](./_screenshots/ascii_000.png)
 
+## SPY
+
+[WIP] 1997.
+
+## EXEFPS
+
+[WIP] 1997.
+
 ## Karaoke
 
 Música MIDI. Este programa de 1994 para Windows 3.11 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
