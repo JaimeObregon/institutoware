@@ -178,6 +178,20 @@ El usuario podía así restringir la ejecución de programas por parte de tercer
 
 Lo programé en 1997. Como curiosidad, los textos están en inglés, y acompañaban al programa dos pequeños ficheros de documentación, uno en castellano y el otro en inglés.
 
+## AT
+
+|                                |                                |                                |
+| ------------------------------ | ------------------------------ | ------------------------------ |
+| ![](./_screenshots/at_000.png) | ![](./_screenshots/at_001.png) | ![](./_screenshots/at_002.png) |
+
+Un videojuego que llamé «Aceleración Tangencial», fruto del trauma de una clase de Física en el instituto.
+
+La curiosa explicación del nombre del juego está claramente explicada en el cómico `ATANGEN.DOC`, donde también glosé que «comencé a programarlo el 22 de septiembre de 1997, a la tierna edad de 16 años»:
+
+![](./_screenshots/at_003.png)
+
+La mecánica está inspirada en el mítico [Slicks 'n' Slide](https://fi.wikipedia.org/wiki/Slicks_’n’_Slide) de Timo Kauppinen (1993).
+
 ## Karaoke
 
 Música MIDI. Este programa de 1994 para Windows 3.11 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
