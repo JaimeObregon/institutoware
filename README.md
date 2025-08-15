@@ -138,9 +138,19 @@ Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca lleg
 
 ## Anticopy
 
-[WIP] De 1997.
-
 ![](./_screenshots/anticopy_000.png)
+
+Había olvidado completamente esta curiosa creación que programé en 1998.
+
+Algo de la historia, sin embargo, sí que creo que puedo ahora deducir: un amigo del instituto obtuvo una de las primeras grabadoras de CD-ROM de la ciudad, en torno a la cual enseguida floreció una actividad intensiva de estraperlo de copias pirata de casi cualquier cosa.
+
+Circulábamos de mano en mano recopilaciones en CD-ROM de cientos de pequeños juegos, _shareware_ y utilidades. Mi amigo elaboraba las suyas y, parece que me encargó protegerlas de alguna manera. Los detalles están en un fichero de curioso nombre `NOLEER.SEX`, y parece que eran ingeniosos.
+
+ANTICOPY parcheaba los ejecutables de MS-DOS anteponiendo una rutina que comprobaba si en tu sistema había un determinado directorio con una concreta fecha de creación, ambas conocidas solo por quien parcheaba el binario.
+
+Así te asegurabas de que tal programa solo corría en tu ordenador y no en otros. O que solo lo hiciera si había un determinado CD-ROM insertado en la unidad lectura.
+
+Una curiosa tecnología anticopia… para proteger copias pirata. Lo programé con 16 años.
 
 ## ASCII
 
