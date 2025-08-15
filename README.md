@@ -144,13 +144,13 @@ Como casi todo lo demás que aquí comparto —salvando el Cutris—, nunca lleg
 
 ## ASCII
 
-Es un mínimo ejecutable, de tan solo 639 bytes, de los que en MS-DOS se llaman TSR o «residente», porque siguen en ejecución latente tras devolver el _prompt_ al usuario.
-
-Este muestra la tabla de caracteres ASCII al pulsar una combinación de teclas, lo cual me resultaba muy práctico a la hora de hacer tablas, líneas o arte ASCII desde otros programas como el IDE de Borland o el propio `EDIT.EXE` que traía MS-DOS.
-
-Lo programé en ensamblador con énfasis en minimizar el consumo de memoria, que era un preciadísimo recurso. No conservo la fecha.
-
 ![](./_screenshots/ascii_000.png)
+
+Es un mínimo ejecutable (solo 639 bytes) de los que en MS-DOS se llaman [TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) o «residentes», porque siguen latentes en memoria tras devolver el _prompt_ al usuario.
+
+Este que hice —no conservo la fecha, pero supongo que hacia 1997— muestra la tabla de caracteres ASCII al pulsar una combinación de teclas. Esto me resultaba muy práctico a la hora de hacer tablas, líneas o arte ASCII desde otros programas como el IDE de Borland o el propio `EDIT.EXE` que traía MS-DOS.
+
+Lo programé en ensamblador con énfasis en minimizar el consumo de memoria, que era entonces un preciadísimo recurso. El programa escribe directamente en la memoria de vídeo del «modo texto» del sistema.
 
 ## SPY
 
