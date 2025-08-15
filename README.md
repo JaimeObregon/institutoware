@@ -164,11 +164,19 @@ Lo programé en ensamblador con énfasis en minimizar el consumo de memoria, que
 
 ## SPY
 
-[WIP] 1997.
+Otro pequeño TSR de 1997. Este queda en ejecución y anota en un fichero ocultable el nombre de todos los programas ejecutados. Una especie de espía para ordenadores de uso compartido…
+
+El programa funcionaba —creo recordar— sobrecargando la interrupción 21h de MS-DOS.
 
 ## EXEFPS
 
-[WIP] 1997.
+![](./_screenshots/exefps_000.png)
+
+«Executable File Protection System», en el nombre con el que bauticé a este programilla que parcheaba los ejecutables de MS-DOS para redirigir el punto de entrada a una nueva rutina, anexada al binario, que pedía una contraseña.
+
+El usuario podía así restringir la ejecución de programas por parte de terceros.
+
+Lo programé en 1997. Como curiosidad, los textos están en inglés, y acompañaban al programa dos pequeños ficheros de documentación, uno en castellano y el otro en inglés.
 
 ## Karaoke
 
