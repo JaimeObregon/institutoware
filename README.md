@@ -192,6 +192,10 @@ La curiosa explicación del nombre del juego está claramente explicada en el c�
 
 La mecánica está inspirada en el mítico [Slicks 'n' Slide](https://fi.wikipedia.org/wiki/Slicks_’n’_Slide) de Timo Kauppinen (1993).
 
+## 4raya
+
+En 1995 la revista «Solo Programadores» convocó un concurso de programación. Participé enviando por correo un disquete con este programa en Turbo Pascal, y que es un fantástico ejemplo de todo lo que _no_ hay que hacer. Lo escribí en un 386 DX. Tenía 13 años.
+
 ## Karaoke
 
 Música MIDI. Este programa de 1994 para Windows 3.11 no es mío; lo encontré en un disquete o CD-ROM de alguna revista.
