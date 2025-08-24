@@ -184,7 +184,9 @@ Lo programé en 1997. Como curiosidad, los textos están en inglés, y acompaña
 | ------------------------------ | ------------------------------ | ------------------------------ |
 | ![](./_screenshots/at_000.png) | ![](./_screenshots/at_001.png) | ![](./_screenshots/at_002.png) |
 
-Un videojuego que llamé «Aceleración Tangencial», fruto del trauma de una clase de Física en el instituto.
+Un videojuego que llamé «Aceleración Tangencial», fruto del trauma de una clase de Física en el instituto. Dibujaba los _sprites_ y la tipografía con algún programa de dibujo para MS-DOS:
+
+![](./_screenshots/at_004.png)
 
 La curiosa explicación del nombre del juego está claramente explicada en el cómico `ATANGEN.DOC`, donde también glosé que «comencé a programarlo el 22 de septiembre de 1997, a la tierna edad de 16 años»:
 
