@@ -1,5 +1,7 @@
 # institutoware
 
+⚠️ Nota para el Jaime del futuro: en `_bin/historify.sh` está el _script_ para hacer _commit_ de ficheros o directorios utilizando su fecha como fecha de _commit_, conforme la práctica recomendada para repositorios de _software_ histórico o archivado.
+
 |                                    |                                     |                                      |
 | ---------------------------------- | ----------------------------------- | ------------------------------------ |
 | ![](./_screenshots/cutris_000.png) | ![](./_screenshots/masacre_016.png) | ![](./_screenshots/musicbox_000.png) |
