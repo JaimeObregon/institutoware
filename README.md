@@ -61,7 +61,7 @@ Pese a mis ambiciones de dominación mundial 😂 creo que solo llegué a distri
 
 Adjuntaré a cada programa su código fuente… si lo conservo.
 
-He recuperado el código fuente de [Cutris 1.0](./cutris/1.0/) y de
+He recuperado el código fuente de [Cutris 1.0](./cutris1/) y de
 [Masacre en el instituto](./masacre/). Las notas de conservación de
 [Masacre](./masacre/README.md) explican sus copias y variantes conservadas.
 
