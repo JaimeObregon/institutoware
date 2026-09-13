@@ -61,6 +61,10 @@ Pese a mis ambiciones de dominación mundial 😂 creo que solo llegué a distri
 
 Adjuntaré a cada programa su código fuente… si lo conservo.
 
+He recuperado el código fuente de [Cutris 1.0](./cutris1/) y de
+[Masacre en el instituto](./masacre/). Las notas de conservación de
+[Masacre](./masacre/README.md) explican sus copias y variantes conservadas.
+
 Dejo los ficheros de texto (con extensiones `.TXT` y `.DOC`, fundamentalmente) con su codificación original de MS-DOS (CP437), por lo que el arte ASCII, tildes y otros caracteres especiales solo se apreciarán en DOSBox.
 
 ## Cutris 2
