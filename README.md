@@ -81,7 +81,7 @@ Me encanta la declaración de copyright a nombre de mi marca SOFTWARE INÚTIL, S
 
 Los gráficos los hice, creo, con Photoshop. Creo también que tenía que convertirlos después a un sencillo formato _raster_ propio, porque Turbo Pascal no traía rutinas para decodificar formatos gráficos.
 
-¡Tanto los amigos como en casa echamos unas cuentas horas jugando! 😃
+¡Tanto los amigos como en casa echamos unas cuantas horas jugando! 😃
 
 Como muchos de esos programillas que solían circular por las BBS de la época, adjunté un mensaje en `CUTRIS.DOC`. El colofón es toda una oda al arte de reírse de uno mismo 🙃 y a la actitud cómica y desenfadada que envolvía las muchas horas que confeccionar estos programas llevaba:
 
